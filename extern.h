@@ -1,3 +1,5 @@
+
+
 extern struct general_purpose gen_var;
 extern struct modbus_purpose mbus_var;
 extern struct logic_purpose logic_var;
